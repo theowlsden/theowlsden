@@ -1,10 +1,11 @@
 ### Howdy, welcome to my profile, nice to e-meet you! 👋
 
-The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating soon enough. Software Engineer in the making 
+The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating soon enough. Software Engineer in the making, experimenting my way through life.
 
 - 🔭 I’m currently working on my BASc in ICT
-- 🌱 I’m currently learning everything I can, one step/ code line at a time
-- 😜 Fun fact: I like to draw, act like a photographer [(check my unsplash)][unsplash], and recently started with archery! 🏹
+- 🌱 I’m currently learning everything I can, one step/ code line at a time (Check the Learning Section)
+- 🤜🏿I’m looking to collaborate on interesting projects that would improve the well being of everyone (and occasionally random stuff)
+- 😜 Fun fact: I like to draw, act like a photographer [(check my unsplash)](unsplash), and recently started with archery! 🏹
 
 <br>
 
@@ -13,6 +14,30 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 
 [<img align="left" alt="theowls_den | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shaquil Maria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
+
+## Languages 👩🏿‍💻
+- HTML
+- CSS/ SASS
+- JavaScript
+- TypeScript
+- Java
+- Dart
+- PHP
+- MySQL
+
+## Tools 🛠
+- VS Code
+- Android Studio
+- IntelliJ IDEA
+- Git
+- Postman
+- VirtualBox
+
+## Learning
+- Laravel
+- DevOps
 
 <!--
 **theowlsden/theowlsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
