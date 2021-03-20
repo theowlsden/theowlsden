@@ -21,13 +21,13 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 
 ## Languages I use 👩🏿‍💻
 
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
 
 <br>
 <br>
@@ -37,26 +37,26 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 
 <br>
 
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
 <br/>
 <br/>
 
 ## Tools that streamlines my development 🛠
-<img align="left" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" width="28px" height="28px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
-<img align="left" width="28px" height="28px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" width="28px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
+<img align="left" width="28px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
 <br/>
 <br/>
-<img align="left" width="28px" height="28px" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"/>
-<img align="left" width="28px" height="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" width="28px" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"/>
+<img align="left" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img height="28px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/>
-<img align="left" width="28px" height="28px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"/>
-<img align="left" width="28px" height="28px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"/>
+<img align="left" width="28px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"/>
+<img align="left" width="28px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"/>
 
 <br/>
 <br/>
