@@ -71,9 +71,9 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 
 <img  align="left"  width="28px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
-<img  align="left"  width="28px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img  align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 
-<img  align="left"  width="28px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
+<img  align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
 <br/>
 
@@ -106,7 +106,7 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 <br>
   
 
-## Things I am learning right now
+## Things I am learning right now 🤓
 
 - Laravel
 
