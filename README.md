@@ -12,7 +12,7 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 
 - 🤜🏿I’m looking to collaborate on interesting projects that would improve the well being of everyone (and occasionally random stuff)
 
-- 😜 Fun fact: I like to draw, go on walks & take pictures [check my unsplash](unsplash), and recently started with archery! 🏹
+- 😜 Fun fact: I like to draw, go on walks & take pictures <a href="https://unsplash.com/@chacoxcviii" target="_blank">check my unsplash</a>, and recently started with archery! 🏹
 
   
 
