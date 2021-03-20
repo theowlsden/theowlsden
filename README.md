@@ -61,11 +61,9 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 
 <br>
 
-  
 
 ## Frameworks & Libraries
 
-<br>
 
 <img  align="left" width="28px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
 
@@ -105,13 +103,7 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 <img  align="left"  width="28px"  src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"/>
 
   
-
-<br/>
-
-<br/>
-
-<br/>
-
+<br>
   
 
 ## Things I am learning right now
