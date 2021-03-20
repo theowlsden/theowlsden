@@ -7,16 +7,17 @@ The name is Shaquil Maria, I'm a tech enthausiast studying ICT and graduating so
 - 🤜🏿I’m looking to collaborate on interesting projects that would improve the well being of everyone (and occasionally random stuff)
 - 😜 Fun fact: I like to draw, go on walks & take pictures [(check my unsplash)](unsplash), and recently started with archery! 🏹
 
-<br/>
+<br>
 
-### Let's connect 🤙: 
-<br/>
+### Let's connect🤙: 
+<br>
 
-[<img width="28px" height="28px" alt="theowls_den | Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" //>][instagram]
-[<img width="28px" height="28px" alt="Shaquil Maria | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" //>][linkedin]
+[<img align="left" alt="theowls_den | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shaquil Maria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
+<br>
 
+#
 ## Languages I use 👩🏿‍💻
 
 <img width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -73,7 +74,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---/>
+-->
 [unsplash]: https://unsplash.com/@chacoxcviii
 [instagram]: https://www.instagram.com/theowls_den/
 [linkedin]: www.linkedin.com/in/srmaria
